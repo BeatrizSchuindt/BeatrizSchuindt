@@ -30,9 +30,10 @@
 ###
 
 <div align="left">
-  <!-- Mantenha seus contatos e redes sociais, talvez adicionando uma chamada para ação -->
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <!-- outros badges -->
+  <a href="https://www.instagram.com/a_n_a_b_i_a_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+
 </div>
 
 ###
