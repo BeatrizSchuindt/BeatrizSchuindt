@@ -15,8 +15,6 @@
 
 ###
 
-<!-- Seção de habilidades e tecnologias com uma apresentação mais visual -->
-<h3 align="left">Habilidades e Tecnologias</h3>
 <p align="left">
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
