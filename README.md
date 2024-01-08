@@ -1,7 +1,7 @@
 <h1 align="left"> 👋 Oiê! Me chamo Ana Beatriz Schuindt ✨ </h1>
 
 <p align="left"> 🎓 Completei minha formação técnica em Informática pelo Instituto Federal de Mato Grosso, adquirindo experiência prática em projetos de pesquisa e desenvolvimento de software.</p>
-<p align="left"> 👩🏻‍💻 Aprimorei habilidades em tecnologias como NodeJS e React através do curso FIC_DEV da UNEMAT e Seciteci-MT.</p>
+<p align="left"> 👩🏻‍💻 Aprimorei habilidades em tecnologias como NodeJS e React por meio do curso FIC_DEV da UNEMAT e Seciteci-MT.</p>
 <p align="left"> 💡 Sou dedicada, detalhista, com forte capacidade de resolução de problemas e uma exploradora de conhecimentos, buscando sempre aprender e expandir minhas habilidades.</p>
 <p align="left"> 💻 Atualmente, curso Engenharia da Computação, com interesse em projetos de pesquisa e extensão, e desejo desenvolver tecnologias eficientes.</p>
 
